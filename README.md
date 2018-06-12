@@ -20,7 +20,7 @@ Download the [full](https://raw.githubusercontent.com/ml5js/ml5-library/master/d
 ```
 or 
 ```javascript
-<script src="https://unpkg.com/ml5" type="text/javascript"></script>
+<script src="https://cdn.jsdelivr.net/npm/ml5"></script>
 ```
 
 ## Resources
